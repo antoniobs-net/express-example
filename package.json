@@ -4,7 +4,8 @@
   "description": "Un proyecto de ejemplo",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "init-jovas-server": "node src/app.js"
   },
   "keywords": [
     "demo",
